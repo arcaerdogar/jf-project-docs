@@ -22,6 +22,9 @@ updated: 2026-06-24
 
 > 🆕 = Haziran 2026 ek araştırmasında eklendi (bkz. [[Ek-Arastirma-Haziran-2026]]).
 
+> [!important] Mentör-önerili finalist (Haz 2026)
+> Tabloda olmayan ama **karar finalisti** olan bir fırsat: **app ürün tablosunu form paritesine getirmek** → [[Sikayet-Product-Table]] / [[Oneri-6-App-Commerce-Parity]]. Talep: **Yüksek (6-7 L3 ticket)** · Değer: Yüksek · Kapsam: Net · 1 ayda canlı: ✅ (var olan backend'i açmak). Karar: [[Oneri-1-Push-Scheduler]] vs [[Oneri-6-App-Commerce-Parity]].
+
 > [!tip] Birleşik vizyon
 > İlk iki satır ("push olgunluğu" + "offline mod") tek persona altında birleştirilebilir → [[Oneri-5-Saha-Modu]]. Teknik gerçeklik: push offline'ken inemez; *zamanlama* offline'ı atlatır, *teslim* bağlantı gelince olur.
 

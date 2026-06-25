@@ -7,7 +7,7 @@ updated: 2026-06-24
 # 🗺️ Jotform Apps — Staj Projesi Araştırması (MOC)
 
 > [!summary] Yönetici Özeti
-> Jotform App Builder ekibinde stajım sırasında canlıya çıkma potansiyeli olan **gerçek bir ürün projesi** seçmek için bu bilgi tabanını hazırladım. Araştırma; mevcut ürün durumunu, forum/inceleme sitelerinden derlenen önceliklendirilmiş kullanıcı şikayetlerini ve bunlardan türetilmiş üç somut proje önerisini bir araya getiriyor. **Ana bulgu:** AI ve içerik elementleri tarafı yoğun yatırım almış; asıl boşluk "uygulama davranışı" katmanında (çevrimdışı çalışma, bildirim olgunluğu, kişiselleştirilmiş veri). **Ana öneri:** mevcut push altyapısı üstüne kurulan, kapsamı en net ve canlıya çıkma şansı en yüksek olan [[Oneri-1-Push-Scheduler|Zamanlanmış & Tekrarlayan Push + Bildirim Merkezi]].
+> Jotform App Builder ekibinde stajım sırasında canlıya çıkma potansiyeli olan **gerçek bir ürün projesi** seçmek için bu bilgi tabanını hazırladım. Araştırma; mevcut ürün durumunu, forum/inceleme sitelerinden derlenen önceliklendirilmiş kullanıcı şikayetlerini ve bunlardan türetilmiş üç somut proje önerisini bir araya getiriyor. **Ana bulgu:** AI ve içerik elementleri tarafı yoğun yatırım almış; asıl boşluk "uygulama davranışı" katmanında (çevrimdışı çalışma, bildirim olgunluğu, kişiselleştirilmiş veri). **Ana öneri:** mevcut push altyapısı üstüne kurulan, kapsamı en net ve canlıya çıkma şansı en yüksek olan [[Oneri-1-Push-Scheduler|Zamanlanmış & Tekrarlayan Push + Bildirim Merkezi]]. **🎯 Güncel durum (Haz 2026, mentör toplantısı):** karar **iki finalist** arasında — [[Oneri-1-Push-Scheduler]] (mevcut odak) vs [[Oneri-6-App-Commerce-Parity]] (mentör-önerili; **6-7 L3 ticket** ile en güçlü dahili talep). Karşılaştırma: [[05-Tavsiye-ve-Sonraki-Adimlar]].
 
 ## 📚 Notlara Giriş
 
@@ -37,7 +37,8 @@ updated: 2026-06-24
 - [[Oneri-2-Offline-Mode]] — App Builder uygulamaları için offline mod (en yüksek etki).
 - [[Oneri-3-Portal]] — Kişiselleştirilmiş "Benim Verim" portal görünümü (dengeli).
 - [[Oneri-4-In-App-Analytics]] 🆕 — Uygulama içi özet/durum analitik elementi (ek aday).
-- [[Oneri-5-Saha-Modu]] 🛰️ 🆕 — Offline veri + zamanlanmış hatırlatma birleşik vizyonu (Oneri-1 + Oneri-2).
+- [[Oneri-5-Saha-Modu]] 🛰️ — Offline veri + zamanlanmış hatırlatma birleşik vizyonu (Oneri-1 + Oneri-2).
+- [[Oneri-6-App-Commerce-Parity]] 🛒 🆕 — App ürün tablosunu form paritesine getirmek (**finalist**, 6-7 L3 ticket).
 
 ### 05–06 — Karar ve Kaynaklar
 - [[05-Tavsiye-ve-Sonraki-Adimlar]] — Önerilen sıra, doğrulama adımları, sunum stratejisi.
@@ -57,7 +58,8 @@ updated: 2026-06-24
 | [[Sikayet-Push]] | [[Oneri-1-Push-Scheduler]] ⭐ | 🔴 |
 | [[Sikayet-Offline]] | [[Oneri-2-Offline-Mode]] | 🔴 |
 | [[Sikayet-Portal]] | [[Oneri-3-Portal]] | 🟠 |
-| [[Sikayet-Workflow]] 🆕 | [[Oneri-3-Portal]] (besler) | 🟠 |
+| [[Sikayet-Product-Table]] 🆕 | [[Oneri-6-App-Commerce-Parity]] (finalist) | 🔴 |
+| [[Sikayet-Workflow]] | [[Oneri-3-Portal]] (besler) | 🟠 |
 | [[Sikayet-Analitik]] 🆕 | [[Oneri-4-In-App-Analytics]] | 🟡 |
 | [[Sikayet-Tasarim]] | — (bkz. [[Kapsam-Disi]] tartışması) | 🟡 |
 

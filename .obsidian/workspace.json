@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8aab4fc38590c18d",
+        "id": "bfcfb32f6daaa8f3",
         "type": "tabs",
         "children": [
           {
-            "id": "00f80798f9604e60",
+            "id": "0e42c7b27de52456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-1-Push-Scheduler.md",
+                "file": "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oneri-1-Push-Scheduler"
+              "title": "Oneri-6-App-Commerce-Parity"
             }
           }
         ]
@@ -180,32 +180,35 @@
       "bases:Yeni taban oluştur": false
     }
   },
-  "active": "00f80798f9604e60",
+  "active": "0e42c7b27de52456",
   "lastOpenFiles": [
-    "Jotform-Apps-Research/02-Bulgular/Guncel-Durum-Dogrulama.md.tmp.15276.272ec59f00d0",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektorden-Dogan-Fikirler.md.tmp.15276.090ccb280f41",
-    "Jotform-Apps-Research/02-Bulgular/Sikayet-Workflow.md.tmp.15276.34124e72432c",
+    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-1-Push-Scheduler.md",
+    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md",
+    "Jotform-Apps-Research/02-Bulgular/Sikayet-Product-Table.md",
+    "Jotform-Apps-Research/05-Tavsiye-ve-Sonraki-Adimlar.md.tmp.1688.8504ebc5ce8b",
+    "Jotform-Apps-Research/05-Tavsiye-ve-Sonraki-Adimlar.md.tmp.1688.a5d5cda708bb",
+    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md.tmp.1688.1dd1caa4ea4a",
+    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md.tmp.1688.07af972d4f96",
+    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Emlak.md",
+    "Jotform-Apps-Research/03-Firsat-Haritasi.md.tmp.1688.c89d987cdf94",
+    "Jotform-Apps-Research/00-MOC.md.tmp.1688.5d462fac3ac5",
+    "Jotform-Apps-Research/00-MOC.md.tmp.1688.9da60eabca57",
+    "Jotform-Apps-Research/00-MOC.md.tmp.1688.1791ae522b4d",
+    "Jotform-Apps-Research/05-Tavsiye-ve-Sonraki-Adimlar.md.tmp.1688.ff79a7d0c1a6",
+    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md.tmp.1688.81cc7fe8c3d5",
+    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Egitim.md",
     "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-5-Saha-Modu.md",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-4-In-App-Analytics.md",
     "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-3-Portal.md",
+    "Jotform-Apps-Research/06-Kaynaklar.md",
+    "2026-06-25.md",
+    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-4-In-App-Analytics.md",
     "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Perakende.md",
     "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-2-Offline-Mode.md",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-1-Push-Scheduler.md",
     "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-IK.md",
     "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Etkinlik.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Emlak.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Egitim.md",
     "Jotform-Apps-Research/07-Sektor-Analizi/Erisilebilir-Yeni-Sektorler.md",
-    "Jotform-Apps-Research/06-Kaynaklar.md.tmp.20728.7f7200112cb2",
-    "Jotform-Apps-Research/00-MOC.md.tmp.20728.f05432c9b9bd",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektorden-Dogan-Fikirler.md.tmp.20728.4d0786e00d52",
-    "Jotform-Apps-Research/01-Baglam/Apps-Mevcut-Durum-2026.md.tmp.20728.3eefb1491c95",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-3-Portal.md.tmp.20728.27d3bf711d9a",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Erisilebilir-Yeni-Sektorler.md.tmp.20728.724ba7ba985c",
     "Jotform-Apps-Research/02-Bulgular/Guncel-Durum-Dogrulama.md",
-    "Jotform-Apps-Research/02-Bulgular/Guncel-Durum-Dogrulama.md.tmp.20728.c3c5fb73ae66",
     "Jotform-Apps-Research/07-Sektor-Analizi/00-Sektor-MOC.md",
-    "Jotform-Apps-Research/05-Tavsiye-ve-Sonraki-Adimlar.md.tmp.20728.9319f02b35e9",
     "Jotform-Apps-Research/02-Bulgular/Talep-Kataloğu.md",
     "Jotform-Apps-Research/02-Bulgular/Musteri-Hikayeleri.md",
     "Jotform-Apps-Research/07-Sektor-Analizi/Sektorden-Dogan-Fikirler.md",
@@ -213,10 +216,6 @@
     "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Kamu.md",
     "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Saglik.md",
     "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Nonprofit.md",
-    "Jotform-Apps-Research/06-Kaynaklar.md",
-    "Jotform-Apps-Research/01-Baglam/Teknik-Bildirim-Mekanizmalari.md",
-    "Jotform-Apps-Research/02-Bulgular/Ek-Arastirma-Haziran-2026.md",
-    "Jotform-Apps-Research/02-Bulgular/Sikayet-Workflow.md",
-    "Jotform-Apps-Research/02-Bulgular/Sikayet-Analitik.md"
+    "Jotform-Apps-Research/01-Baglam/Teknik-Bildirim-Mekanizmalari.md"
   ]
 }

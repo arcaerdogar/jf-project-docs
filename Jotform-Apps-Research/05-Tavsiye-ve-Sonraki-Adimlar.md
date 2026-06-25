@@ -9,6 +9,22 @@ updated: 2026-06-24
 > [!abstract] Özet
 > Üç öneri içinde **kapsam netliği ve canlıya çıkma şansı en yüksek** olan [[Oneri-1-Push-Scheduler]] birinci sırada sunulmalı. Ekip iştahı yüksekse [[Oneri-2-Offline-Mode]] **agresif sınırlanmış MVP** olarak alternatif.
 
+## 🎯 GÜNCEL DURUM — İki Finalist (Haziran 2026, mentör toplantısı sonrası)
+Mevcut odak **[[Oneri-1-Push-Scheduler]]**. Mentörlerden ikinci güçlü aday geldi: **[[Oneri-6-App-Commerce-Parity]]** (app ürün tablosunu form paritesine getirmek). Karar bu ikisi arasında.
+
+| Boyut | [[Oneri-1-Push-Scheduler]] | [[Oneri-6-App-Commerce-Parity]] |
+|---|---|---|
+| **Dahili kanıt (L3 ticket)** | 1 ticket | **6-7 ticket** 🔥 |
+| **Teknik risk** | Orta (yeni zamanlama altyapısı: kuyruk/Redis) | **Düşük** (var olan form backend'ini app'e açmak) |
+| **Felsefe uyumu** ("her şey forma bağlı") | Nötr | **Yüksek** |
+| **Sektör genişliği** | Çok geniş (7/9 sektör) | Perakende/e-ticaret (dar ama derin) |
+| **Kapsam netliği** | Çok net | Net (mimari karar ✅ verildi: app-native; özellik seti sabitlenecek) |
+| **Canlıya çıkma** | Yüksek | Yüksek |
+
+> [!tip] Dürüst okuma
+> **Oneri-6**, "shipping to production" hedefi için **demand + risk** dengesinde öne çıkıyor: en güçlü dahili talep (6-7 vs 1 ticket) + en düşük risk (yeni sistem değil, var olanı açmak) + felsefe uyumu. **Oneri-1** ise daha geniş sektörel yankı ve daha "yeni yetenek" hikâyesi sunuyor; ekip zaten ona ramped. Çoğu kriterde Oneri-6 önde; nihai karar mentör iştahı + stajyerin hangi tarafta (backend zamanlama vs full-stack ürün parite) gelişmek istediğine bağlı.
+> **Mimari karar (Oneri-6) verildi:** ✅ **app-native frontend.** Gömülü form zaten var (statüko/workaround); projenin değeri kullanıcıyı form'a göndermeden aynı backend'i app içinde açmak. Kalan tek açık: öncelikli özellik seti.
+
 ## 🥇 Önerilen Sıra (öncelik = tek yön)
 > [!success] Karar (Haziran 2026): **Push işi erken biterse offline ile devam et.**
 > Birleşik vizyon [[Oneri-5-Saha-Modu]] tam da bunu mümkün kılıyor: aynı persona, dilimlenebilir iki yarı.
