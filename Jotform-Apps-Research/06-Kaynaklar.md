@@ -62,6 +62,28 @@ updated: 2026-06-24
 - https://www.workyard.com/compare/jotform-review
 - https://research.com/software/reviews/jotform-review
 
+### Ek araştırma — Haziran 2026 (yeni bulgular; bkz. [[Ek-Arastirma-Haziran-2026]])
+- https://www.jotform.com/answers/34711541-jotform-apps-analytics-support  *(uygulama içi analitik talebi)*
+- https://www.jotform.com/answers/21496651-how-do-i-add-google-analytics-to-my-app  *(GA widget Apps'te desteklenmiyor)*
+- https://www.jotform.com/products/apps/elements/category/analytics/  *(mevcut "analitik" elementleri: Day Countdown / Fancy Timer / Math Graphs)*
+- https://www.jotform.com/enterprise/insights/  *(Enterprise Insights — builder-tarafı panel)*
+- https://www.jotform.com/help/guide-jotform-workflows/  *(Workflows/Approvals yetenekleri)*
+- https://www.jotform.com/products/workflows/
+- https://www.jotform.com/answers/14315261-approval-workflow-feature-request-to-include-the-approval-status-in-google-sheet-integration  *(onay durumu başka yüzeylere yansımıyor)*
+- https://www.jotform.com/answers/5052504-approval-status-letting-the-user-check-their-approval-status-in-jotform  *(son kullanıcı durum takibi "not possible", eskale — Durum Takip fikri doğrulaması)*
+- https://www.jotform.com/answers/12518471-how-will-my-form-responders-track-approval-status  *("no link... to view their own approval status")*
+- https://www.jotform.com/help/1466-how-do-you-track-the-approval-process-in-jotform-tables/  *(Flow Status builder-tarafı)*
+- https://www.jotform.com/answers/32922491-api-how-to-get-submissions-workflow-status  *(workflow durumu API ile çekilebiliyor — element fizibilitesi)*
+
+### Güncel durum doğrulaması — Haziran 2026 (bkz. [[Guncel-Durum-Dogrulama]])
+- https://www.jotform.com/ai/portal-builder/  *(AI Portal Builder — rol-bazlı erişim, ama per-kullanıcı filtre/canlı durum yok)*
+- https://www.jotform.com/answers/37535031-client-portal-how-to-create-a-dashboard-for-clients-to-log-in-and-track-application-status  *(16 Nisan 2026: "no option to create a login portal for clients", "no live status tracking")*
+- https://www.jotform.com/blog/how-to-create-a-client-portal/  *(Mart 2026: Apps + rol-bazlı, otomatik per-kullanıcı filtre YOK)*
+- https://www.jotform.com/answers/8164091-can-jotform-app-be-used-offline  *(App Builder offline çalışmıyor)*
+- https://www.jotform.com/answers/23850411-are-scheduled-push-notifications-available  *(zamanlanmış push yok, eskale)*
+- https://www.prnewswire.com/news-releases/jotform-introduces-ai-app-builder-turning-ideas-into-fully-functional-apps-in-minutes-302808099.html  *(AI App Builder, Haz 2026)*
+- https://www.jotform.com/blog/top-jotform-product-updates-of-2025/  *(2025 ürün güncellemeleri — AI ağırlıklı)*
+
 > Not: Erişim tarihi Haziran 2026. En güçlü birincil kanıt, **Jotform destek forumundaki feature-request thread'leri** (yukarıdaki answers/* linkleri) — eksik özelliği kullanıcı ağzından ve tekrarlı biçimde gösteriyorlar. İnceleme siteleri (G2/Capterra/Trustpilot vb.) ve üçüncü-parti blog değerlendirmeleri (zite, workyard, research.com) ikincil/destekleyici; bazılarının kendi ürünlerini öne çıkaran ticari yanlılığı olabilir, o yüzden oradaki iddiaları forum/resmî kaynakla teyit ederek kullan.
 
 ## 🔗 İlgili Notlar

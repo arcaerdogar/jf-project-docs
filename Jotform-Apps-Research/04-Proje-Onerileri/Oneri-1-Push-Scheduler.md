@@ -17,7 +17,8 @@ updated: 2026-06-24
 - **(a) Scheduler:** İleri tarihli gönderim + tekrarlama kuralı (**günlük / haftalık / aylık**).
   - Örn. "Her Cuma 16:00 timesheet hatırlatması."
 - **(b) Submission-tetikli push:** Forma yeni gönderim gelince otomatik bildirim.
-- **(c) Uygulama içi bildirim merkezi:** Geçmiş bildirimlerin saklandığı liste — iOS'taki **mesaj kaybını çözer**.
+- **(c) Uygulama içi bildirim merkezi:** Geçmiş bildirimlerin saklandığı liste — iOS'taki **mesaj kaybını çözer**. Bu parça **offline-güvenli** (yerel/IndexedDB, push gerekmez) → bkz. [[Teknik-Bildirim-Mekanizmalari]].
+- **(d) *(opsiyonel)* Basit hedef-kitle segmentasyonu:** Bugün bildirim tüm abonelere gidiyor; etiket/segment bazlı gönderim eklenebilir (Haziran 2026 ek bulgusu — bkz. [[Ek-Arastirma-Haziran-2026]]). Kapsam taşarsa faz 2'ye ertele.
 
 ## 💡 Neden Bu Öneri
 - Mevcut **push altyapısı üstüne kurulur** — sıfırdan başlamıyoruz.
@@ -30,6 +31,9 @@ updated: 2026-06-24
 - **Zamanlanmış iş kuyruğu:** BullMQ / Redis ile cron benzeri tekrarlama.
 - **Net API yüzeyi:** zamanlama oluştur/listele/iptal uçları.
 - **CTR metriği zaten var** — başarı ölçümü hazır.
+
+## 🏭 Sektörel Talep
+9 sektörün 7'sinde ilk iki öncelik (en geniş yankı) → en güçlü eşleşmeler: [[Sektor-Etkinlik]] (zamanlı), [[Sektor-Perakende]] (segmentli kampanya), [[Sektor-Nonprofit]] (acil/kampanya), [[Sektor-Saglik]] (randevu — HIPAA dikkat). Yeni sektör açar: amatör spor → [[Erisilebilir-Yeni-Sektorler]]. Kapsam büyütme: [[Sektorden-Dogan-Fikirler|Omnichannel hatırlatma]].
 
 ## 📊 Skor (bkz. [[03-Firsat-Haritasi]])
 | Talep | Değer | Kapsam netliği | 1 ayda canlı |

@@ -13,6 +13,9 @@ updated: 2026-06-24
 
 ### 🤖 AI Tarafı (yoğun yatırım)
 - **Copilot / AI App Generator:** Prompt'tan uygulama üretme. Doğal dilden tam bir uygulama iskeleti çıkarıyor.
+- **AI App Builder** (Haz 2026): doğal dilden **pages, navigation, workflows, layouts, data connections** üreten yeni nesil. Form/Tablo/AI Agent/widget bağlıyor.
+- **AI Portal Builder** (2026): no-code portal (PWA) — rol-bazlı erişim, form/tablo/dashboard bağlama. ⚠️ Jenerik portalı çözüyor ama **per-kullanıcı otomatik filtre + canlı durum YOK** → bkz. [[Guncel-Durum-Dogrulama]].
+- **AI Agents** (Şub 2025), konuşma-tabanlı **Jotform AI** (Mart 2026).
 - **AI Chatbot elementi:** Uygulamaya eklenebilen, gömülü sohbet elemanı.
 - **ChatGPT App Marketplace entegrasyonu** (Mart 2026 duyurusu).
 

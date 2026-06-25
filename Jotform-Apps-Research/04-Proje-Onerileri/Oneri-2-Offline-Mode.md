@@ -33,6 +33,9 @@ updated: 2026-06-24
 - Front-end ağırlıklı (service worker, IndexedDB, sync API).
 - Test edilebilir net davranış: "uçağa al / wifi kapat → doldur → aç → sync."
 
+## 🏭 Sektörel Talep
+En güçlü eşleşme: [[Sektor-Saha-Hizmetleri]] (offline zorunlu + "pazarlama offline diyor, ürün yapmıyor" çelişkisi) ve [[Sektor-Kamu]] (somut müşteri vakaları: Three Rivers, County of Marin). Yeni sektör açar: **tarım** + **seyahat** → [[Erisilebilir-Yeni-Sektorler]].
+
 ## 📊 Skor (bkz. [[03-Firsat-Haritasi]])
 | Talep | Değer | Kapsam netliği | 1 ayda canlı |
 |---|---|---|---|

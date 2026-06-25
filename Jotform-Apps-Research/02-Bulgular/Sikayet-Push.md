@@ -30,6 +30,10 @@ Kullanıcılar ileri tarihli ve tekrar eden bildirim istiyor:
 ### 4. 📱 Mobilden gönderim akışı zayıf
 - Mobil cihazdan kolay bildirim gönderme deneyimi yetersiz.
 
+### 5. 🎯 Hedef-kitle segmentasyonu yok *(Haziran 2026 ek bulgusu)*
+- Resmî dokümana göre bildirim **tüm abonelere aynı anda** gidiyor; "kime göndereyim?" seçimi yok.
+- Kullanıcılar belirli grup/segmente gönderim soruyor → bkz. [[Ek-Arastirma-Haziran-2026]].
+
 ## Değerlendirme
 | Boyut | Durum |
 |---|---|
