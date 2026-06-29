@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcfb32f6daaa8f3",
+        "id": "7db4a843b2dc4d44",
         "type": "tabs",
         "children": [
           {
-            "id": "0e42c7b27de52456",
+            "id": "40c6c23519abafdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md",
+                "file": "docs/Gelistirme-Asamalari/01-Cron-Motoru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oneri-6-App-Commerce-Parity"
+              "title": "01-Cron-Motoru"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/03-Gelistirme-Ortami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Geri Bağlantılar"
+              "title": "03-Gelistirme-Ortami için geri bağlantılar"
             }
           },
           {
@@ -162,7 +163,8 @@
               "title": "Anahat"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,42 +182,42 @@
       "bases:Yeni taban oluştur": false
     }
   },
-  "active": "0e42c7b27de52456",
+  "active": "40c6c23519abafdf",
   "lastOpenFiles": [
+    "docs/Gelistirme-Asamalari/01a-Deney-Sunucu-Process.md",
+    "docs/Gelistirme-Asamalari/01-Cron-Motoru.md",
+    "docs/Gelistirme-Asamalari/01-Cron-Motoru.md.tmp.24184.5a989fac2ac8",
+    "docs/Gelistirme-Asamalari/00-Yol-Haritasi.md.tmp.30564.0f51b2192417",
+    "docs/Gelistirme-Asamalari/01-Cron-Motoru.md.tmp.30564.bd0b74d32d20",
+    "docs/Gelistirme-Asamalari/01-Cron-Motoru.md.tmp.30564.15fc3d8c9d6f",
+    "docs/Gelistirme-Asamalari/01a-Deney-Sunucu-Process.md.tmp.30564.cbee56a926a8",
+    "docs/Gelistirme-Asamalari/01a-Deney-Sunucu-Process.md.tmp.30564.f6ebcd826785",
+    "docs/Gelistirme-Asamalari/01a-Deney-Sunucu-Process.md.tmp.30564.a407b59680dd",
+    "docs/Gelistirme-Asamalari/01a-Deney-Sunucu-Process.md.tmp.30564.11f16e74bc47",
+    "docs/Gelistirme-Asamalari/01a-Deney-Sunucu-Process.md.tmp.30564.a4a24a833136",
+    "docs/Gelistirme-Asamalari/01a-Deney-Sunucu-Process.md.tmp.30564.6dad98449595",
+    "docs/Gelistirme-Asamalari/00-Yol-Haritasi.md",
+    "docs/03-Gelistirme-Ortami.md",
+    "docs/02-Kaynaklar.md",
+    "docs/01-Teknik-Notlar.md",
+    "docs/00-Proje-Ozeti.md",
+    "README.md",
+    "docs/Gelistirme-Asamalari/07-Metrikler-ve-Segmentasyon.md",
+    "docs/Gelistirme-Asamalari/06-Bildirim-Merkezi.md",
+    "docs/Gelistirme-Asamalari/05-Kosullu-Tetikleme.md",
+    "docs/Gelistirme-Asamalari/04-Eposta-Kanali-ve-Sablon.md",
+    "docs/Gelistirme-Asamalari/03-Push-Entegrasyonu.md",
+    "docs/Gelistirme-Asamalari/02-Gonderim-Motoru-ve-Kural-Modeli.md",
+    "archive/README.md",
+    "archive/_obsidian-artifacts/2026-06-25.md",
     "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-1-Push-Scheduler.md",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md",
-    "Jotform-Apps-Research/02-Bulgular/Sikayet-Product-Table.md",
-    "Jotform-Apps-Research/05-Tavsiye-ve-Sonraki-Adimlar.md.tmp.1688.8504ebc5ce8b",
-    "Jotform-Apps-Research/05-Tavsiye-ve-Sonraki-Adimlar.md.tmp.1688.a5d5cda708bb",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md.tmp.1688.1dd1caa4ea4a",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md.tmp.1688.07af972d4f96",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Emlak.md",
-    "Jotform-Apps-Research/03-Firsat-Haritasi.md.tmp.1688.c89d987cdf94",
-    "Jotform-Apps-Research/00-MOC.md.tmp.1688.5d462fac3ac5",
-    "Jotform-Apps-Research/00-MOC.md.tmp.1688.9da60eabca57",
-    "Jotform-Apps-Research/00-MOC.md.tmp.1688.1791ae522b4d",
-    "Jotform-Apps-Research/05-Tavsiye-ve-Sonraki-Adimlar.md.tmp.1688.ff79a7d0c1a6",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-6-App-Commerce-Parity.md.tmp.1688.81cc7fe8c3d5",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Egitim.md",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-5-Saha-Modu.md",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-3-Portal.md",
-    "Jotform-Apps-Research/06-Kaynaklar.md",
-    "2026-06-25.md",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-4-In-App-Analytics.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Perakende.md",
-    "Jotform-Apps-Research/04-Proje-Onerileri/Oneri-2-Offline-Mode.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-IK.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Etkinlik.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Erisilebilir-Yeni-Sektorler.md",
-    "Jotform-Apps-Research/02-Bulgular/Guncel-Durum-Dogrulama.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/00-Sektor-MOC.md",
-    "Jotform-Apps-Research/02-Bulgular/Talep-Kataloğu.md",
-    "Jotform-Apps-Research/02-Bulgular/Musteri-Hikayeleri.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektorden-Dogan-Fikirler.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Saha-Hizmetleri.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Kamu.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Saglik.md",
-    "Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Nonprofit.md",
-    "Jotform-Apps-Research/01-Baglam/Teknik-Bildirim-Mekanizmalari.md"
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektorden-Dogan-Fikirler.md",
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Saha-Hizmetleri.md",
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Saglik.md",
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Perakende.md",
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Nonprofit.md",
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Kamu.md",
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektor-IK.md",
+    "archive/Jotform-Apps-Research/07-Sektor-Analizi/Sektor-Etkinlik.md"
   ]
 }
